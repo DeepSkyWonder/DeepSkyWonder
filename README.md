@@ -1,8 +1,8 @@
 - 👋  Hi, I’m @DeepSkyWonder
 - 👀  I’m a Citizen Astronomer. Educator, and Engineer
-- 🌱  I’m a Python Coder, but I also use Javascript, HTML, CSS, and Bash
-- 💞️  I’m interested in Colaborating on Astronomy Projects
-- 📫  How to reach me: deepskywonder@gmail.com, astro.deepskywonder.com
+- 🌱  I’m a Python Coder as this is the language of Astronomy. I also code in Javascript, HTML, CSS, SVG, and Bash
+- 💞️  I’m interested in Collaborating on Astronomy Projects
+- 📫  How to reach me: deepskywonder@gmail.com, [http://astro.deepskywonder.com](http://astro.deepskywonder.com)
 
 <!---
 DeepSkyWonder/DeepSkyWonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
