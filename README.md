@@ -1,8 +1,8 @@
 - 👋  Hi, I’m @DeepSkyWonder
-- 👀  I’m interested in Astronomy
-- 🌱  I’m currently learning Python
-- 💞️  I’m looking to collaborate on Astronomy Projects
-- 📫  How to reach me (TBD)
+- 👀  I’m a Citizen Astronomer. Educator, and Engineer
+- 🌱  I’m a Python Coder, but I also use Javascript, HTML, CSS, and Bash
+- 💞️  I’m interested in Colaborating on Astronomy Projects
+- 📫  How to reach me: deepskywonder@gmail.com, astro.deepskywonder.com
 
 <!---
 DeepSkyWonder/DeepSkyWonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
